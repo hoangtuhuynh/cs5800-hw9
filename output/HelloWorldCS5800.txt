@@ -1,0 +1,16 @@
+72,Verdana,Red,16
+101,Arial,Red,12
+108,Arial,Red,12
+108,Arial,Red,12
+111,Arial,Red,12
+87,Calibri,Blue,14
+111,Calibri,Blue,14
+114,Calibri,Blue,14
+108,Calibri,Blue,14
+100,Calibri,Blue,14
+67,Verdana,Black,16
+83,Verdana,Black,16
+53,Arial,Blue,16
+56,Arial,Blue,16
+48,Arial,Blue,16
+48,Arial,Blue,16

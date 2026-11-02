@@ -1,0 +1,27 @@
+=== searchById ===
+searchById(1)        [first time, goes to server] -> 1003 ms
+    #1 "Bohemian Rhapsody" by Queen on A Night at the Opera (5:54)
+searchById(1)        [cached] -> 0 ms
+    #1 "Bohemian Rhapsody" by Queen on A Night at the Opera (5:54)
+
+=== searchByTitle ===
+searchByTitle("Hotel California") [first time, goes to server] -> 1002 ms
+    [#3 "Hotel California" by Eagles on Hotel California (6:31)]
+searchByTitle("hotel california") [cached, case-insensitive] -> 0 ms
+    [#3 "Hotel California" by Eagles on Hotel California (6:31)]
+
+=== searchByAlbum ===
+searchByAlbum("Thriller") [first time, goes to server] -> 1006 ms
+    [#4 "Billie Jean" by Michael Jackson on Thriller (4:54), #5 "Beat It" by Michael Jackson on Thriller (4:18), #6 "Thriller" by Michael Jackson on Thriller (5:57)]
+searchByAlbum("Thriller") [cached] -> 0 ms
+    [#4 "Billie Jean" by Michael Jackson on Thriller (4:54), #5 "Beat It" by Michael Jackson on Thriller (4:18), #6 "Thriller" by Michael Jackson on Thriller (5:57)]
+
+=== Songs found by an album search are now cached by id too ===
+searchById(5)        [cached by the album search] -> 0 ms
+    #5 "Beat It" by Michael Jackson on Thriller (4:18)
+searchById(8)        [never fetched, goes to server] -> 1004 ms
+    #8 "Yesterday" by The Beatles on Help! (2:05)
+
+=== Missing song ===
+searchById(99)       [not on server] -> 1004 ms
+    not found

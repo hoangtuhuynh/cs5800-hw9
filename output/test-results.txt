@@ -1,0 +1,10 @@
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.557 s -- in musicstreaming.SongServiceProxyTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.011 s -- in musicstreaming.SongTest
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.223 s -- in musicstreaming.MusicServerTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.041 s -- in musicstreaming.MusicStreamingDriverTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.036 s -- in texteditor.TextEditorDriverTest
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 s -- in texteditor.CharacterPropertiesFactoryTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 s -- in texteditor.DocumentCharacterTest
+Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.018 s -- in texteditor.DocumentTest
+Tests run: 62, Failures: 0, Errors: 0, Skipped: 0
+BUILD SUCCESS

@@ -1,0 +1,61 @@
+=== Created document ===
+Text: HelloWorldCS5800
+  'H' (Arial, Red, 12)
+  'e' (Arial, Red, 12)
+  'l' (Arial, Red, 12)
+  'l' (Arial, Red, 12)
+  'o' (Arial, Red, 12)
+  'W' (Calibri, Blue, 14)
+  'o' (Calibri, Blue, 14)
+  'r' (Calibri, Blue, 14)
+  'l' (Calibri, Blue, 14)
+  'd' (Calibri, Blue, 14)
+  'C' (Verdana, Black, 16)
+  'S' (Verdana, Black, 16)
+  '5' (Arial, Blue, 16)
+  '8' (Arial, Blue, 16)
+  '0' (Arial, Blue, 16)
+  '0' (Arial, Blue, 16)
+16 characters share 4 character property objects
+
+Saved to output/HelloWorldCS5800.txt
+
+=== Loaded document ===
+Text: HelloWorldCS5800
+  'H' (Arial, Red, 12)
+  'e' (Arial, Red, 12)
+  'l' (Arial, Red, 12)
+  'l' (Arial, Red, 12)
+  'o' (Arial, Red, 12)
+  'W' (Calibri, Blue, 14)
+  'o' (Calibri, Blue, 14)
+  'r' (Calibri, Blue, 14)
+  'l' (Calibri, Blue, 14)
+  'd' (Calibri, Blue, 14)
+  'C' (Verdana, Black, 16)
+  'S' (Verdana, Black, 16)
+  '5' (Arial, Blue, 16)
+  '8' (Arial, Blue, 16)
+  '0' (Arial, Blue, 16)
+  '0' (Arial, Blue, 16)
+16 characters share 4 character property objects
+
+=== After restyling 'H' and saving again ===
+Text: HelloWorldCS5800
+  'H' (Verdana, Red, 16)
+  'e' (Arial, Red, 12)
+  'l' (Arial, Red, 12)
+  'l' (Arial, Red, 12)
+  'o' (Arial, Red, 12)
+  'W' (Calibri, Blue, 14)
+  'o' (Calibri, Blue, 14)
+  'r' (Calibri, Blue, 14)
+  'l' (Calibri, Blue, 14)
+  'd' (Calibri, Blue, 14)
+  'C' (Verdana, Black, 16)
+  'S' (Verdana, Black, 16)
+  '5' (Arial, Blue, 16)
+  '8' (Arial, Blue, 16)
+  '0' (Arial, Blue, 16)
+  '0' (Arial, Blue, 16)
+16 characters share 5 character property objects
